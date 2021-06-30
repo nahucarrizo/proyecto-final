@@ -1,0 +1,21 @@
+body{
+    background-color: #00ccff;
+}
+
+.nav1{
+    background-color: #3333ff;
+}
+
+.img1{
+    width: 5rem;
+    height: 5rem;
+}
+
+.t1{
+    text-align: center;
+    background-color: #66CCFF;
+}
+
+#promos{
+    margin-top: 100;
+}
