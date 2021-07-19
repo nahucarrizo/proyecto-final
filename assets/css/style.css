@@ -30,3 +30,19 @@ body{
 .card-img-top{
     height: 13rem;
 }
+
+.img2{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.img3{
+    margin: auto;
+    width: 10rem;
+    height: 10rem;
+}
+
+.card2{
+    width: 20rem;
+    height: 20rem;
+}
