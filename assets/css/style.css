@@ -25,6 +25,7 @@ body{
     color: #ffffff;
     height: 2rem;
     width: 2rem;
+    z-index:1000;
 }
 
 .img1{
